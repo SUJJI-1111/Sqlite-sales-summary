@@ -37,9 +37,7 @@ Sample Table
 2  Oranges        10     30.0
 
 
-Sales Chart
-## Output  
+Sales Chart Output  
 
-**Sales Chart**  
-![Sales Chart](sales_chart.png)  
+ 
 
